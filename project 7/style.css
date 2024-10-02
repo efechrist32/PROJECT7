@@ -1,0 +1,23 @@
+*{
+    color: white;
+    background-color: antiquewhite;
+}
+h1[value=center]{
+    text-align: center;
+}
+.bgblue{
+    background-color: blue;
+}
+#center{
+    text-align: center;
+}
+p{
+    background-color: red;
+    text-align: center;
+    font-size: 50px;
+}
+footer{
+    text-align: end;
+    color: white;
+    background-color: black;
+}
